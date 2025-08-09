@@ -3,3 +3,6 @@ Predictive maintenance system using ML to anticipate industrial machinery failur
 1. PDF
 2. PPT
 3. jupyter notebook
+4. Gettig started with cloud(credly certificate)
+5. Journey to cloud (credly certificate)
+6. Rag LAB (certificate)
